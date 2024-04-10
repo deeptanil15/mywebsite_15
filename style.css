@@ -177,10 +177,6 @@ ul li a:hover {
   border-radius: 100%;
 }
 
-@media (width < 750px) {
-  nav .checkbox {
-    display: block;
-  }
 
   ul {
     position: absolute;
